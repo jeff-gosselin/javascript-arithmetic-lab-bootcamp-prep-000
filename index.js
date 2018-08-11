@@ -17,3 +17,8 @@ function divide(a,b) {
   var sum = a / b;
   return sum;
 }
+
+function inc(n) {
+  a = (n += 1);
+  return sum;
+}
