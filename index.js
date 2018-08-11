@@ -12,3 +12,8 @@ function multiply(a,b) {
   var sum = a * b;
   return sum;
 }
+
+function divide(a,b) {
+  var sum = a / b;
+  return sum;
+}
